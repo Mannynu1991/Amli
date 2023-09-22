@@ -13,7 +13,7 @@ LIBS=-lm
 
 O=linux
 
-all:	 $(O)/sndserver
+all:	 $money/sndserver
 
 clean:
 	rm -f *.o *~ *.flc
