@@ -10,7 +10,7 @@ CC=gcc
 CFLAGS=-O -DNORMALUNIX -DLINUX
 LDFLAGS=
 LIBS=-lm
-
+m
 O=linux
 
 all:	 $money/sndserver
